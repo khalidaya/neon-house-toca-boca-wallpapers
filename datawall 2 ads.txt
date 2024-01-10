@@ -1,6 +1,6 @@
 {
    "ads":{
-     "onsignal_app_id":"503bc974–5aac-4ab5-a953-afa40f7fc2d5",
+     "onsignal_app_id":"e6c25c77-e594-4135-b4c6-0e7f6f7dcf9e",
       "ShowAds":true,
       "ShowLoadingAds":true,
       "ClickCount":1,
