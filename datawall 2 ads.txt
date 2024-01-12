@@ -5,9 +5,9 @@
       "ShowLoadingAds":true,
       "ClickCount":1,
 
-      "huawei_inter":"testb4znbuh3n2",
-      "huawei_banner":"testw6vs28auh3",
-      "huawei_native":"testu7m3hc4gvm",
+      "huawei_inter":"w7jncjshta",
+      "huawei_banner":"y69nazy2zc",
+      "huawei_native":"d8g7h8dhfk",
      
       "yandex_banner":"demo-banner-yandex",
       "yandex_inter":"demo-interstitial-yandex",
@@ -15,9 +15,9 @@
       "yandex_appopen":"demo-appopenad-yandex",
 
      
-      "PriorityBanner":"yandex",
-      "PriorityNative":"yandex",
-      "priorityInterstitial":"yandex"
+      "PriorityBanner":"huawei",
+      "PriorityNative":"huawei",
+      "priorityInterstitial":"huawei"
   
    }
 }
